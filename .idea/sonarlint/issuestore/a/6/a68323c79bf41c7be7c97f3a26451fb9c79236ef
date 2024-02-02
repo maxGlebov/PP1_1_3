@@ -1,0 +1,7 @@
+
+\
+java:S1117"?Rename "userDaoJDBC" which hides the field declared at line 10.(™à¶²8ÔÎ¶öÕ1
+M
+java:S1481"0Remove this unused "userDaoJDBC" local variable.(™à¶²8ÕÎ¶öÕ1
+U
+java:S1854""8Remove this useless assignment to local variable "list".(öü¥‹8×Î¶öÕ1
